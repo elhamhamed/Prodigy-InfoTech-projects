@@ -17,12 +17,13 @@ Dataset:-
 
 # Task-03
 “Implement a support vector machine (SVM)to classify images of cats and dogs from the kaggle dataset.
-Dataset:-https://www.kaggle.com/c/dogs-vs-cats/data
+Dataset:- https://www.kaggle.com/c/dogs-vs-cats/data
 
 # Task-04
 “Develop a hand gesture recognition model that can accurately identify and classify different hand gestures from image or video date, enabling intuitive human-computer interaction and gesture-based control systems.
-Dataset:-
+Dataset:- https://www.kaggle.com/gti-upm/leapgestrecog
 
 # Task-05
 “Develop a model that can accurately recognize food items from images and estimate their calorie content, enabling food choices.
 Dataset:-
+https://www.kaggle.com/dansbecker/food-101
